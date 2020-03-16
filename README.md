@@ -3,6 +3,6 @@ Collection of codes for modifying, improving, and analyzing LAMMPS input and out
 
 * __addshell.c__: This code modifies a LAMMPS data file to prepare it for the adiabatic shell model by Mitchell and Fincham. Please cite the following publication if you make a use of this code:
 
-..* test.
+* test.
 
 Khalkhali M, Ma X, Zhang H, Liu Q, “Bulk and surface properties of gypsum: A comparison between classical force fields and dispersion-corrected DFT calculations”, Computational Materials Science, 164, 8-16 (2019) ([https://doi.org/10.1016/j.commatsci.2019.03.045](https://doi.org/10.1016/j.commatsci.2019.03.045))
