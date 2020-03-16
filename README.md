@@ -7,7 +7,10 @@ Collection of codes for modifying, improving, and analyzing LAMMPS input and out
   
 * __MKConventor.c__: This code converts atomic configuration files written in different data formats to others. Data files supported in the current version are:
 
- LAMMPS data files
- DL_POLY CONFIG file
- Materials Studio XSD files
- XYZ files
+ *LAMMPS data files
+ 
+ *DL_POLY CONFIG file
+ 
+ *Materials Studio XSD files
+ 
+ *XYZ files
