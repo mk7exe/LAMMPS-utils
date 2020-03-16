@@ -5,7 +5,7 @@ Collection of codes for modifying, improving, and analyzing LAMMPS input and out
 
   *Khalkhali M, Ma X, Zhang H, Liu Q, “Bulk and surface properties of gypsum: A comparison between classical force fields and dispersion-corrected DFT calculations”, Computational Materials Science, 164, 8-16 (2019)* ([https://doi.org/10.1016/j.commatsci.2019.03.045](https://doi.org/10.1016/j.commatsci.2019.03.045))
   
-  * __MKConventor.c__: This code converts atomic configuration files written in different data formats to others. Data files supported in the current version are:
+* __MKConventor.c__: This code converts atomic configuration files written in different data formats to others. Data files supported in the current version are:
    LAMMPS data files
    DL_POLY CONFIG file
    Materials Studio XSD files
